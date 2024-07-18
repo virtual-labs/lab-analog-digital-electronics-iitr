@@ -36,7 +36,7 @@
       "name": "4 to 16 decoder using 3 to 8 decoder IC",
       "short-name": "4-to-16",
       "repo": "https://github.com/virtual-labs/exp-4-to-16-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
