@@ -15,63 +15,63 @@
       "name": "Familiarisation with General Bread Board",
       "short-name": "general-bread-board",
       "repo": "https://github.com/virtual-labs/exp-general-bread-board-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": " Familiarization of ICs",
       "short-name": "familiarization-of-ics",
       "repo": "https://github.com/virtual-labs/exp-familiarization-of-ics-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To verify De-Morgan's theorems",
       "short-name": "de-morgans-theorems",
       "repo": "https://github.com/virtual-labs/exp-de-morgans-theorems-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "4 to 16 decoder using 3 to 8 decoder IC",
       "short-name": "4-to-16",
       "repo": "https://github.com/virtual-labs/exp-4-to-16-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Full Subtractor using 4:1 MUX",
       "short-name": "full-subtractor",
       "repo": "https://github.com/virtual-labs/exp-full-subtractor-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To design a BCD to Decimal decoder",
       "short-name": "decimal-decoder",
       "repo": "https://github.com/virtual-labs/exp-decimal-decoder-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Even/Odd Parity Generator",
       "short-name": "parity-generator",
       "repo": "https://github.com/virtual-labs/exp-parity-generator-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Generation of clock using NAND and NOR gate",
       "short-name": "generation-of-clock",
       "repo": "https://github.com/virtual-labs/exp-generation-of-clock-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Application of basic logic gates in fire and burglar alarms",
       "short-name": "logic-gates",
       "repo": "https://github.com/virtual-labs/exp-basic-logic-gates-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
