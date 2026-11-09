@@ -22,14 +22,14 @@
       "name": " Familiarization of ICs",
       "short-name": "familiarization-of-ics",
       "repo": "https://github.com/virtual-labs/exp-familiarization-of-ics-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "To verify De-Morgan's theorems",
       "short-name": "de-morgans-theorems",
       "repo": "https://github.com/virtual-labs/exp-de-morgans-theorems-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -43,14 +43,14 @@
       "name": "Full Subtractor using 4:1 MUX",
       "short-name": "full-subtractor",
       "repo": "https://github.com/virtual-labs/exp-full-subtractor-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "To design a BCD to Decimal decoder",
       "short-name": "decimal-decoder",
       "repo": "https://github.com/virtual-labs/exp-decimal-decoder-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
